@@ -327,8 +327,8 @@ def endGame():
     else:
         thumby.display.drawText(f"{winner} Won!", 20, 10, 1)
             
-    thumby.display.drawText("A. New Game", 4, 20, 1)
-    thumby.display.drawText("B. Exit", 4, 30, 1)
+    thumby.display.drawText("A: New Game", 4, 20, 1)
+    thumby.display.drawText("B: Exit", 4, 30, 1)
         
     thumby.display.update()
         
