@@ -6,9 +6,9 @@ Find out more [here.](https://thumby.us)
 
 ![Screenshot of game](/assets/image1.png)
 
-This game does not support multiplayer as there is no way to test it without having access to 2 devices.
-
 I made this to learn how to create games for the Thumby.
+
+Includes both 1 player and 2 player modes.
 
 > [!NOTE]
 > All Thumby games are written in [MicroPython](https://micropython.org)
