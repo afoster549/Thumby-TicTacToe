@@ -84,8 +84,6 @@ def modeSelect():
     
     while True:
         if thumby.buttonA.justPressed():
-            print("1 player")
-            
             multiplayer = False
             playing = True
             
@@ -336,8 +334,6 @@ def endGame():
         
     while True:
         if thumby.buttonA.justPressed():
-            drawBoard()
-                
             board = [
                 ["", "", ""],
                 ["", "", ""],
